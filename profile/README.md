@@ -8,7 +8,7 @@ At HomeMadeGames LLC, we are committed to providing our gaming community with an
 - We do not want your personal data.
 
 ## Fair Gameplay
-- Non-Kernel Level Anticheat: Any anticheat measures implemented in our games will not operate at the kernel level, ensuring the security and privacy of your system.
+- Non-Kernel-Level Anti-Cheat: Any anti-cheat measures implemented in our games will not operate at the kernel level, ensuring the security and privacy of your system.
 - Fair Microtransactions: Items purchasable with real-world currency will strictly be for visual preferences. No gameplay-changing perks will ever be available for purchase.
 
 ## Opt-In Data Collection
